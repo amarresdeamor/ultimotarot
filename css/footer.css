@@ -1,0 +1,31 @@
+.footer-mentions {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    width: 100%;
+    font-size: 0.9em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.footer-mentions a {
+    color: #fff;
+    cursor: pointer;
+}
+
+#mentions-txt {
+    text-align: left;
+    padding: 0 10px;
+}
+
+@media screen and (max-width: 815px) {
+    .footer-mentions {
+        position: static;
+    }
+}

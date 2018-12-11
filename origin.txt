@@ -1,0 +1,132 @@
+Uri: http://www.tarot-chat.es/
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\index.html
+Content Type: text/html
+
+Uri: http://www.tarot-chat.es/favicon.ico?version=1.2
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://www.tarot-chat.es/apple-touch-icon.png?version=1.2
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\apple-touch-icon.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/css/output.min.css?version=1.3.0.9
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\css\output.min.css
+Content Type: text/css
+
+Uri: http://www.tarot-chat.es/css/footer.css
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\css\footer.css
+Content Type: text/css
+
+Uri: http://www.tarot-chat.es/js/modernizr.custom.29505.js
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\js\modernizr.custom.29505.js
+Content Type: text/javascript
+
+Uri: http://www.tarot-chat.es/bundles/fosjsrouting/js/router.js
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\bundles\fosjsrouting\js\router.js
+Content Type: text/javascript
+
+Uri: http://www.tarot-chat.es/js/fos_js_routes.js
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\js\fos_js_routes.js
+Content Type: text/javascript
+
+Uri: http://www.tarot-chat.es/img/es_ES/face.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\es_ES\face.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/img/es_ES/chat_face.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\es_ES\chat_face.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/img/userchat.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\userchat.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/img/ajax-loader.gif
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://www.tarot-chat.es/img/tirage_tarot/dos-tirage.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\tirage_tarot\dos-tirage.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/img/tirage_tarot/dos-tirage-small.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\tirage_tarot\dos-tirage-small.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/img/tirage_tarot/dos.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\tirage_tarot\dos.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/img/tirage_tarot/dos-small.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\tirage_tarot\dos-small.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/bower_components/libphonenumber/dist/libphonenumber.js
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\bower_components\libphonenumber\dist\libphonenumber.js
+Content Type: text/javascript
+
+Uri: http://www.tarot-chat.es/js/built.js?version=1.0.0.17
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\js\built.js
+Content Type: text/javascript
+
+Uri: http://www.tarot-chat.es/js/chatb.min.js
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\js\chatb.min.js
+Content Type: text/javascript
+
+Uri: http://www.tarot-chat.es/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.tarot-chat.es/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.tarot-chat.es/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\fonts\glyphicons-halflings-regular.txt
+Content Type: text/plain
+
+Uri: http://www.tarot-chat.es/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\fonts\glyphicons-halflings-regular-1.txt
+Content Type: text/plain
+
+Uri: http://www.tarot-chat.es/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\fonts\glyphicons-halflings-regular-2.txt
+Content Type: text/plain
+
+Uri: http://www.tarot-chat.es/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://www.tarot-chat.es/img/fr_FR/background.jpg
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\fr_FR\background.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.tarot-chat.es/img/en_US/background.jpg
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\en_US\background.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.tarot-chat.es/img/es_ES/background.jpg
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\es_ES\background.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.tarot-chat.es/img/fr_FR/title_site.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\fr_FR\title_site.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/img/es_ES/title_site.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\es_ES\title_site.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/img/en_US/title_site.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\en_US\title_site.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/img/dialogue1.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\dialogue1.png
+Content Type: image/png
+
+Uri: http://www.tarot-chat.es/img/dialogue2.png
+File Name: C:\Users\promax\Desktop\nuevo tarot (automatico)\www.tarot-chat.es\img\dialogue2.png
+Content Type: image/png
+
